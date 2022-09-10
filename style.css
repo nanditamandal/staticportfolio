@@ -1,0 +1,47 @@
+body{
+    padding:0px;
+    margin:0px;
+    width:100%;
+}
+.personal-details{
+    width:80%;
+    height:300px;
+    display:flex;
+    margin: 20px auto;
+   
+}
+.contact{
+   
+    width:70%;
+    float:left;
+    text-align: left;
+    padding:30px;
+    
+}
+.picture{
+    
+    width:30%;
+    float:right;
+    
+  
+
+}
+table, th, td{
+    width:80%;
+    border: 1px solid black;
+    margin: 20px auto;
+    border: none;
+}
+th{
+    width: 30%;
+    text-align: left;
+
+}
+td{
+    width:70%
+}
+p, h4{
+    padding: 5px;
+    margin: 0px;
+}
+
